@@ -1,0 +1,6 @@
+{
+  "name": "Google Indexing Manager Pro",
+  "description": "Professional tool to manage websites, monitor index status, parse sitemaps, and integrate Google Indexing API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
